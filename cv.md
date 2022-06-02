@@ -3,7 +3,7 @@
 **Junior Frontend Developer**
 ****
 **Contact information:**
-* **Phone**:+380994968105
+* **Phone**:+38099496815
 * **E-mail**:vikkorol.bus@gmail.com
 * [**Linkedin**](https://www.linkedin.com/in/ihorkovalov/)
 ****
