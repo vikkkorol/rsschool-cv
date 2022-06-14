@@ -1,1 +1,87 @@
-style
+body {
+    font-family: 'Joan', serif;
+}
+.container {
+    display: block;
+    width: 1024px;
+    margin: 0 auto;
+}
+.two-parts {
+    display: flex;
+}
+header {
+    text-align: center;
+    
+    padding: 40px;
+}
+.header-image {
+border-radius: 30%;
+border: solid white;
+}
+.left-side {
+width: 30%;
+background-color: rgb(62, 86, 138);
+padding-left: 50px;
+color: white;
+}
+
+.contacts li img {
+    display: inline;
+    vertical-align: middle;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    padding-right: 0px;
+}
+.contacts li p {
+    display: inline;
+    vertical-align: middle;
+}
+.ul-contacts {
+    list-style: none;
+}
+.contacts a {
+    color: white;
+    text-decoration: none;
+}
+h3 {
+    text-align: center;
+    background-color: rgb(58, 55, 55);
+    padding: 10px;
+    margin-right: 40px;
+}
+h4 {
+    color: rgb(137, 170, 240);
+    margin-left: 40px;
+}
+.right-side {
+    width: 70%;
+}
+.right-side p  {
+    margin-left: 40px;
+    font-size: 20px;
+}
+.name {
+    font-size: 40px;
+    color: rgb(62, 86, 138);
+    margin-left: 40px;
+}
+.name h2{
+    font-size: 30px;
+    color: rgb(137, 170, 240);
+}
+.courses {
+    font-size: 20px;
+}
+.line {
+    width: 150px;
+    height: 5px;
+    background-color: rgb(62, 86, 138);
+    margin-right: 485px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px 0px 40px;
+    align-items: center;
+    background-color: rgb(184, 198, 206);
+}
